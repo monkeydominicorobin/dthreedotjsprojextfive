@@ -1,0 +1,22 @@
+{
+  "name": "dthreedotjsprojextfive",
+  "homepage": "https://github.com/monkeydominicorobin/dthreedotjsprojextfive",
+  "authors": [
+    "Rommel Dominguez <ynwodsun000@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "4.5.0",
+    "topojson": "^3.0.0"
+  }
+}
