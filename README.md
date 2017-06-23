@@ -4,3 +4,5 @@ Map Craters Across the Map using D3
 >D3 is not as intuitive as it looks you must master jquery first to appreciate the construct.
 
 >The best part in this whole exercise is D3's ability to render maps.
+
+>This project utilizes two cloud based JSON data sources. 
